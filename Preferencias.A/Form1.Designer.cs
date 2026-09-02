@@ -78,7 +78,7 @@
             groupBox1.Size = new Size(314, 184);
             groupBox1.TabIndex = 2;
             groupBox1.TabStop = false;
-            groupBox1.Text = "Actividades favoritas (pueden elegir varias)";
+            groupBox1.Text = "Actividades favoritas (puedes elegir varias)";
             // 
             // chkLectura
             // 

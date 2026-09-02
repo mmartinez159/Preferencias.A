@@ -117,7 +117,7 @@ namespace Preferencias.A
             //5.CREAR EL RESUMEN
             //========================
             string resumen =
-                "RESUMEN DER REFERENCIAS\r\n" +
+                "RESUMEN DE PREFERENCIAS\r\n" +
                 "-----------------------\r\n" +
                 "Nombre: " + txtnombre.Text + "\r\n" +
                 "Actividades: " + string.Join(", ", actividades) + "\r\n" +
